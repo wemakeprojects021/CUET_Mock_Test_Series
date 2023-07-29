@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218999281333",
+    "project_id": "cuet-mock-test-series",
+    "storage_bucket": "cuet-mock-test-series.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218999281333:android:ba960f4139954038db10fc",
+        "android_client_info": {
+          "package_name": "my.tworoot2.cuetmocktestseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218999281333-lcjee78h954kmfr8ou38jv8ss3m3ear4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrftmMdROoEPpXLbY13jnwCEQY1XmthiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218999281333-lcjee78h954kmfr8ou38jv8ss3m3ear4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
